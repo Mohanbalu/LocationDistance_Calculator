@@ -27,7 +27,7 @@ Feel free to explore each section based on your interests or needs. If you have 
 
 ## Introduction
 
-Welcome to the "C Project - llocation_distance_calculator" repository! This project is designed to streamline and manage the billing processes of a restaurant.
+Welcome to the "C Project - location_distance_calculator" repository! This project is designed to streamline and manage the billing processes of a restaurant.
 
 ## Features
 
