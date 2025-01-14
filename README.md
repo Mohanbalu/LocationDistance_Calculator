@@ -44,23 +44,23 @@ To get started with the project, follow these steps:
 
 ### 1. Clone the repository:
 ```
-git clone https://github.com/Mohanbalu/Myprojects.gitcd "Myprojects/C project using DS project"
+git clone https://github.com/Mohanbalu/LocationDistance_Calculator
 ```
 ### 2. Compile and run:
 
 - Compile the project:
      ```
-     gcc location_distance_calculator.c -o location_distance_calculator
+     gcc Distance_calc.c -o Distance_calc
      ```
 
    - Run the project:
      ```
-     ./location_distance_calculator
+     ./Distance_calc
      ```
 
 ### 3. Interact with the System
    
-Follow the on-screen instructions to generate invoices, view, search, and delete invoices.
+Follow the on-screen instructions to generate, view, search, and delete invoices.
 
 In this way, the `git clone` and `cd` commands will be displayed as a single block in the rendered Markdown on GitHub. Copy and paste this into your README.md file.
 
@@ -97,7 +97,7 @@ Thank you for considering contributing to the "Advanced Restaurant Billing Syste
 1. Fork the repository by clicking on the "Fork" button.
 2. Clone the forked repository to your local machine:
    ```
-   git clone https://github.com/your-username/Myprojects.gitcd Myprojects/C%20project
+   https://github.com/Mohanbalu/LocationDistance_Calculator
    ```
 ### Making Changes
 Create a new branch for your feature or bug fix:
